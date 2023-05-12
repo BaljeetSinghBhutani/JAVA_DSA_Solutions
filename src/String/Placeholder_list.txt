@@ -1,0 +1,14 @@
+Format Specifiers in Java:
+1. %c -  Character
+2. %d - Decimal
+3. %e - Exponential floating point number
+4 .%f - floating point number
+5 .%i - Integer(base10)
+6. %o - Octal Number(base 8)
+7. %s-  String
+8. %u -  Unsigned decimal Integer Number
+9. %x - Hexadecimal Number (base 16)
+10. %t - Date/time
+11. %n- new line
+
+
